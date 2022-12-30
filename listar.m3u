@@ -5,7 +5,9 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CpEFKHoeoW3PI3g4v1gZ0kRU2nH
 https://1129-vos.dtvott.com/DASH/stream_06/Segment-3734259979890090.m4v
 #EXTINF:-3 , CRONICA
 https://edge-vod01-sl.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV-mp4a_145200_spa=20000-scale=48000-init.mp4
-#EXTINF:-3 , CHAVO
+#EXTINF:-4 , CHAVO
 https://usher.ttvnw.net/api/channel/hls/dsadasdsf.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=3261616&play_session_id=d361a9769c11337c9206070b47943d4d&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=f68291918be86a6c720e3220298c7950ed72fbae&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22dsadasdsf%22%2C%22channel_id%22%3A853546793%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%220ddfcc8f97289009%22%2C%22expires%22%3A1672365223%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22190.174.88.7%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.16.0
-#EXTINF:-3 TCL
+#EXTINF:-5 TCL
 https://edge-vod01-sl.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_enc_2A/TLC-mp4a_144800_spa=20000-scale=48000-12110101628705.mp4
+#EXTINF:-6 HBO PLUS
+https://dtvott-abc.akamaized.net/dash_live_1141/dash/1141_HBO_PLUS_Panam-audio_72882_spa=72400.dash
