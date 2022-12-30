@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,DBZ
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CpEFKHoeoW3PI3g4v1gZ0kRU2nHO6nizlRXFXwAZ-Qu7MF2Q5cV0_X9jz18lj9gBLARDjW8jyGddfYXAa0NWeCiP__jHhH7XvVeus6rokXMRwShwVf4hu3dFRW9U2lSfDpDSY-ELg6wTEMMZ0-3sifYBdiYCxatIADY-xhoGnWXYnJPgI3TqKYjiWmQEnoNFlQuYIdUuYJii1x8vARERAPtkrYOcYWdS2WZAYjW-U_kTQpvv5Jx4Yu-6SwkSGPqDMHrwCJZaibc_HJdBG4ieTvzzDIR85u5TqyLggcFP2JsuUyiNbKPpRqEdifykJcmrcBn1x1XSGMzDiF67FENY1q4mcerD8BUD8e96pcPdUQ7HtXVdeq6N9p5GeBNKqyW6LfdAErHQPHp5GXsd6pR7yw5aj-u5kn1P5HwwJ1D5dsZWQ-pz81FmVkid3woV3LRR4nBUPqLMNWNbCMaGVxARXiOzzkbGTLUWxt8JkE1WJNg4vLwZd5AOmKvaboWAcjGyTuolpqvBNqt4WofR__weM2f6sChtVd51Km68aemI1JBF4dPi0VaF0Vm0DlIvo_ds4Egf0ASTXpTuyIQzwU0eF4Nuo2zALEAtPT5IG9BHsJpT82B82u0Bo4Z5yTccjcTJiVxGJbgF_zBPBCSWr7ebQRmLnriXjJVQzweMa2tK0TWkzAg3f5EB00AIYUm1VFtddn2jwYU0lcDpxRlZXEXPEOYwG2JEfx_YlCnMCjr3L1kvID8F0qNfb1CHROO0Z54kxVBVDeRP9Wbo92FIhfajV7XDqH3-x4zDklptQ7mFhmnXOgAR_8847exAVoCMCMu1FXGbaRTVqMj0FPtmDdYkFfJto5wtYA25nXosNQCsBXHK4RwsGgyTieHrP_rDKZPg5sogASoJdXMtZWFzdC0xMPUD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://s16.postimg.org/z4yd0upsl/cine_sky.png" group-title="Filmes e Séries",Cine Sky
-http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-
-#EXTINF:-1 , CANAL 26
- http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?
 #EXTINF:-1, Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1,  Canal 9
