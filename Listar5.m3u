@@ -1,155 +1,38 @@
+
 #EXTM3U
-#EXTINF:-1,Star Plus HD
-http://103.157.237.18:9000/play/302/index.m3u8
-#EXTINF:-1,Pogo
-http://103.157.237.18:9000/play/402/index.m3u8
-#EXTINF:-1,National Geographic Channel HD
-http://103.157.237.18:9000/play/502/index.m3u8
-#EXTINF:-1,& TV HD
-http://103.157.237.18:9000/play/328/index.m3u8
-#EXTINF:-1,Disney Stories
-http://103.157.237.18:9000/play/442/index.m3u8
-#EXTINF:-1,Star Sports First
-http://103.157.237.18:9000/play/628/index.m3u8
-#EXTINF:-1,Star Jalsha HD
-http://103.157.237.18:9000/play/202/index.m3u8
-#EXTINF:-1,Cartoon Network
-http://103.157.237.18:9000/play/401/index.m3u8
-#EXTINF:-1,Star Sports 1 Bangla
-http://103.157.237.18:9000/play/601/index.m3u8
-#EXTINF:-1,Zee Cafe HD
-http://103.157.237.18:9000/play/709/index.m3u8
-#EXTINF:-1,Zee Classic
-http://103.157.237.18:9000/play/324/index.m3u8
-#EXTINF:-1,BBC Earth
-http://103.157.237.18:9000/play/524/index.m3u8
-#EXTINF:-1,MTV
-http://103.157.237.18:9000/play/801/index.m3u8
-#EXTINF:-1,History TV18 HD
-http://103.157.237.18:9000/play/520/index.m3u8
-#EXTINF:-1,Discovery Kids
-http://103.157.237.18:9000/play/417/index.m3u8
-#EXTINF:-1,Star World Premiere HD
-http://103.157.237.18:9000/play/703/index.m3u8
-#EXTINF:-1,Nat Geo Wild HD
-http://103.157.237.18:9000/play/503/index.m3u8
-#EXTINF:-1,Disney Junior
-http://103.157.237.18:9000/play/418/index.m3u8
-#EXTINF:-1,Sony SAB HD
-http://103.157.237.18:9000/play/336/index.m3u8
-#EXTINF:-1,Comedy Central HD
-http://103.157.237.18:9000/play/723/index.m3u8
-#EXTINF:-1,& Prive HD
-http://103.157.237.18:9000/play/718/index.m3u8
-#EXTINF:-1,Sony SIX HD
-http://103.157.237.18:9000/play/618/index.m3u8
-#EXTINF:-1,UTV Action
-http://103.157.237.18:9000/play/315/index.m3u8
-#EXTINF:-1,Sun Bangla
-http://103.157.237.18:9000/play/215/index.m3u8
-#EXTINF:-1,TLC HD
-http://103.157.237.18:9000/play/515/index.m3u8
-#EXTINF:-1,Colors Bangla Cinema
-http://103.157.237.18:9000/play/214/index.m3u8
-#EXTINF:-1,Sony Ten 2 HD
-http://103.157.237.18:9000/play/614/index.m3u8
-#EXTINF:-1,NDTV 24x7
-http://103.157.237.18:9000/play/1009/index.m3u8
-#EXTINF:-1,Sky News
-http://103.157.237.18:9000/play/1004/index.m3u8
-#EXTINF:-1,Investigation Discovery HD
-http://103.157.237.18:9000/play/514/index.m3u8
-#EXTINF:-1,Zee Bangla Cinema
-http://103.157.237.18:9000/play/207/index.m3u8
-#EXTINF:-1,Sony BBC Earth HD
-http://103.157.237.18:9000/play/507/index.m3u8
-#EXTINF:-1,Hungama
-http://103.157.237.18:9000/play/407/index.m3u8
-#EXTINF:-1,Star Movies Select HD
-http://103.157.237.18:9000/play/707/index.m3u8
-#EXTINF:-1,Animal Planet HD
-http://103.157.237.18:9000/play/526/index.m3u8
-#EXTINF:-1,BBC Cbeebies
-http://103.157.237.18:9000/play/408/index.m3u8
-#EXTINF:-1,Zee Zest
-http://103.157.237.18:9000/play/508/index.m3u8
-#EXTINF:-1,Colors Cineplex HD
-http://103.157.237.18:9000/play/345/index.m3u8
-#EXTINF:-1,Good Times
-http://103.157.237.18:9000/play/529/index.m3u8
-#EXTINF:-1,Disney International HD
-http://103.157.237.18:9000/play/405/index.m3u8
-#EXTINF:-1,Star Sports 3
-http://103.157.237.18:9000/play/605/index.m3u8
-#EXTINF:-1,Romedy Now HD
-http://103.157.237.18:9000/play/726/index.m3u8
-#EXTINF:-1,Star Bharat HD
-http://103.157.237.18:9000/play/304/index.m3u8
-#EXTINF:-1,Jalsha Movies HD
-http://103.157.237.18:9000/play/204/index.m3u8
-#EXTINF:-1,Fox Life HD
-http://103.157.237.18:9000/play/504/index.m3u8
-#EXTINF:-1,Disney Channel
-http://103.157.237.18:9000/play/404/index.m3u8
-#EXTINF:-1,Zee Bollywood
-http://103.157.237.18:9000/play/323/index.m3u8
-#EXTINF:-1,BBC Lifestyle
-http://103.157.237.18:9000/play/523/index.m3u8
-#EXTINF:-1,Aaj Tak HD
-http://103.157.237.18:9000/play/1003/index.m3u8
-#EXTINF:-1,Zoom
-http://103.157.237.18:9000/play/803/index.m3u8
-#EXTINF:-1,UTV Movies
-http://103.157.237.18:9000/play/316/index.m3u8
-#EXTINF:-1,Sony Ten 1 HD
-http://103.157.237.18:9000/play/612/index.m3u8
-#EXTINF:-1,Discovery Turbo
-http://103.157.237.18:9000/play/512/index.m3u8
-#EXTINF:-1,& Flix HD
-http://103.157.237.18:9000/play/716/index.m3u8
-#EXTINF:-1,Bangla Hitz
-http://103.157.237.18:9000/play/211/index.m3u8
-#EXTINF:-1,& Pictures HD
-http://103.157.237.18:9000/play/330/index.m3u8
-#EXTINF:-1,CNN
-http://103.157.237.18:9000/play/1002/index.m3u8
-#EXTINF:-1,BBC World News
-http://103.157.237.18:9000/play/1001/index.m3u8
-#EXTINF:-1,Zee Action
-http://103.157.237.18:9000/play/322/index.m3u8
-#EXTINF:-1,Movies Now HD
-http://103.157.237.18:9000/play/724/index.m3u8
-#EXTINF:-1,Discovery Science
-http://103.157.237.18:9000/play/511/index.m3u8
-#EXTINF:-1,Sony SET HD
-http://103.157.237.18:9000/play/334/index.m3u8
-#EXTINF:-1,Sony MAX HD
-http://103.157.237.18:9000/play/338/index.m3u8
-#EXTINF:-1,Miniplex HD
-http://103.157.237.18:9000/play/326/index.m3u8
-#EXTINF:-1,NDTV Profit Prime
-http://103.157.237.18:9000/play/1010/index.m3u8
-#EXTINF:-1,MN+ HD
-http://103.157.237.18:9000/play/730/index.m3u8
-#EXTINF:-1,Star Gold 2
-http://103.157.237.18:9000/play/309/index.m3u8
-#EXTINF:-1,Sony Ten 3 HD
-http://103.157.237.18:9000/play/616/index.m3u8
-#EXTINF:-1,Star World HD
-http://103.157.237.18:9000/play/701/index.m3u8
-#EXTINF:-1,Bindass
-http://103.157.237.18:9000/play/313/index.m3u8
-#EXTINF:-1,Star Gold Select HD
-http://103.157.237.18:9000/play/312/index.m3u8
-#EXTINF:-1,Star Gold HD
-http://103.157.237.18:9000/play/308/index.m3u8
-#EXTINF:-1,Discovery HD World
-http://103.157.237.18:9000/play/509/index.m3u8
-#EXTINF:-1,MNX HD
-http://103.157.237.18:9000/play/713/index.m3u8
-#EXTINF:-1,Sony Max 2
-http://103.157.237.18:9000/play/339/index.m3u8
-#EXTINF:-1,& Xplor HD
-http://103.157.237.18:9000/play/331/index.m3u8
-#EXTINF:-1,Nick HD+
-http://103.157.237.18:9000/play/413/index.m3u8
+#EXTINF:-2022, ARTS AND ENTERTAINMENT CHANNEL
+https://router.cdn.rcs.net.ar/mnp/ae/output.mpd
+#EXTINF:-2022, CONSTRUIR TV
+https://router.cdn.rcs.net.ar/mnp/construiriptv/outpu..
+#EXTINF:-2022, AMÉRICA
+https://router.cdn.rcs.net.ar/mnp/america/output.mpd
+#EXTINF:-2022, TELEFE
+https://router.cdn.rcs.net.ar/mnp/telefe/output.mpd
+#EXTINF:-2022, EL 13
+https://router.cdn.rcs.net.ar/mnp/el13/output.mpd
+#EXTINF:-2022, EL NUEVE
+https://router.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+#EXTINF:-2022, DISCOVERY TURBO
+https://router.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
+#EXTINF:-2022, TVP
+https://router.cdn.rcs.net.ar/mnp/tvp/output.mpd
+#EXTINF:-2022, ESPN 01
+https://router.cdn.rcs.net.ar/mnp/espn/output.mpd
+#EXTINF:-2022, ESPN 02
+https://router.cdn.rcs.net.ar/mnp/espn2/output.mpd
+#EXTINF:-2022, ESPN 03
+https://router.cdn.rcs.net.ar/mnp/espn3/output.mpd
+#EXTINF:-2022, ESPN EXTRA
+https://router.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
+#EXTINF:-2022, FOX SPORTS
+https://router.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
+#EXTINF:-2022, FOX SPORTS 02
+https://router.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
+#EXTINF:-2022, FOX SPORTS 03
+https://router.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
+#EXTINF:-2022, HISTORY
+https://router.cdn.rcs.net.ar/mnp/history/output.mpd
+#EXTINF:-2022, HISTORY 02
+https://router.cdn.rcs.net.ar/mnp/h2/output.mpd
+#EXTINF:-2022, STAR CHANNEL
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Star..
