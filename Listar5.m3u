@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1,123 TV
+#EXTINF:-1, 123 TV
 http://45.153.165.13:8000/play/a0ew/index.m3u8
-#EXTINF:-1,ACN
+#EXTINF:-1, CN
 http://45.153.165.13:8000/play/a0e0/index.m3u8
-#EXTINF:-1,ALBA TV
+#EXTINF:-1, ALBA TV
 http://45.153.165.13:8000/play/a0cq/index.m3u8
-#EXTINF:-1,AME CH47
+#EXTINF:-1, AME CH47
 http://45.153.165.13:8000/play/a0fg/index.m3u8
 #EXTINF:-1,ANTV
 http://45.153.165.13:8000/play/a0cn/index.m3u8
